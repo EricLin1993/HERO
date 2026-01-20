@@ -73,9 +73,11 @@ The experimental data reconstruction demo is not uploaded here due to the redist
 
 If you have any questions or concerns about the code, please contact the author via email enpinglin@xmu.edu.cn. 
 
+## Citation
 
+If you use this code in your research, please cite:
 
-
+```bibtex
 @article{Fang2026HERO,
   title   = {HERO: A Memory-Efficient and Fast Structured Low-Rank Reconstruction Algorithm for Accelerated Hypercomplex NMR},
   author  = {Fang, Ze and Chen, Yida and Luo, Yao and Yang, Yu and Lin, Enping and Chen, Zhong},
@@ -87,5 +89,6 @@ If you have any questions or concerns about the code, please contact the author 
   doi     = {10.1021/acs.analchem.5c05054},
   publisher = {American Chemical Society}
 }
+```
 
 
