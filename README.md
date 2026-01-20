@@ -1,12 +1,4 @@
-# Confidentiality Notice
 
-The software and source code contained in this repository are provided solely for the purpose of peer review and evaluation in connection with our submitted manuscript. 
-
-Redistribution, modification, or public dissemination of the code, in whole or in part, is strictly prohibited until the corresponding manuscript has been formally published. Unauthorized use of the code outside of the review process is not permitted.
-
-Upon publication of the manuscript, the authors may release the code under an open-source license. Until then, all rights are reserved by the authors.
-
-© 2025 Ze Fang, Yida Chen, Yao Luo, Yu Yang, Enping Lin*, and Zhong Chen. All rights reserved.
 
 # HERO: A Memory-Efficient and Fast Structured Low-Rank Reconstruction Algorithm for Accelerated Hypercomplex NMR
 
@@ -78,4 +70,22 @@ The experimental data reconstruction demo is not uploaded here due to the redist
 
 # Contact
 
+
 If you have any questions or concerns about the code, please contact the author via email enpinglin@xmu.edu.cn. 
+
+
+
+
+@article{Fang2026HERO,
+  title   = {HERO: A Memory-Efficient and Fast Structured Low-Rank Reconstruction Algorithm for Accelerated Hypercomplex NMR},
+  author  = {Fang, Ze and Chen, Yida and Luo, Yao and Yang, Yu and Lin, Enping and Chen, Zhong},
+  journal = {Analytical Chemistry},
+  volume  = {98},
+  number  = {2},
+  pages   = {1224--1232},
+  year    = {2026},
+  doi     = {10.1021/acs.analchem.5c05054},
+  publisher = {American Chemical Society}
+}
+
+
