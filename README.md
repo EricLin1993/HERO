@@ -4,7 +4,7 @@
 
 **HERO** (a **H**ankel-based **E**fficient **R**econstructions with **O**ptimization) is a fast and memory-saving structured low-rank algorithm for reconstructing hypercomplex NMR spectra. 
 
-**This code is attached for the review of our related manuscript. We kindly request that it not be distributed or shared publicly until the paper is officially published.** 
+
 
 # Content
 
@@ -90,5 +90,6 @@ If you use this code in your research, please cite:
   publisher = {American Chemical Society}
 }
 ```
+
 
 
